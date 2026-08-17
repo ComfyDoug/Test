@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTube Auto Skip</string>
+    <string name="accessibility_service_description">Looks only at the YouTube app and presses its visible Skip ad button when available.</string>
+</resources>
